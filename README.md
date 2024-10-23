@@ -2,7 +2,7 @@
 A clone of Netflix homepage created using React and Tailwind CSS.
 
 ## ✏️Live Link
-[]()
+[https://netflix-homepage-zeta.vercel.app/](https://netflix-homepage-zeta.vercel.app/)
 
 ## ✏️ OVERVIEW 
 This project is a frontend replica of the Netflix homepage, aiming to capture the design, layout, and responsiveness of the original site.
